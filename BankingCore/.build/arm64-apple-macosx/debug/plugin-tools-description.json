@@ -1,0 +1,282 @@
+{
+  "builtTestProducts" : [
+
+  ],
+  "copyCommands" : {
+
+  },
+  "explicitTargetDependencyImportCheckingMode" : {
+    "none" : {
+
+    }
+  },
+  "generatedSourceTargetSet" : [
+
+  ],
+  "pluginDescriptions" : [
+
+  ],
+  "swiftCommands" : {
+    "C.CoreNetworking-arm64-apple-macosx26.0-debug.module" : {
+      "executable" : "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swiftc",
+      "fileList" : "/Users/dulatheo/Desktop/APPS/Banking/banking-core-ios/BankingCore/.build/arm64-apple-macosx/debug/CoreNetworking.build/sources",
+      "importPath" : "/Users/dulatheo/Desktop/APPS/Banking/banking-core-ios/BankingCore/.build/arm64-apple-macosx/debug/Modules",
+      "inputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/dulatheo/Desktop/APPS/Banking/banking-core-ios/BankingCore/Modules/Networking/Sources/APIClient.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/dulatheo/Desktop/APPS/Banking/banking-core-ios/BankingCore/Modules/Networking/Sources/APIEndpoint.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/dulatheo/Desktop/APPS/Banking/banking-core-ios/BankingCore/Modules/Networking/Sources/HTTPMethod.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/dulatheo/Desktop/APPS/Banking/banking-core-ios/BankingCore/Modules/Networking/Sources/NetworkError.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/dulatheo/Desktop/APPS/Banking/banking-core-ios/BankingCore/.build/arm64-apple-macosx/debug/swift-version--58304C5D6DBC2206.txt"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/dulatheo/Desktop/APPS/Banking/banking-core-ios/BankingCore/.build/arm64-apple-macosx/debug/CoreNetworking.build/sources"
+        }
+      ],
+      "isLibrary" : true,
+      "moduleName" : "CoreNetworking",
+      "moduleOutputPath" : "/Users/dulatheo/Desktop/APPS/Banking/banking-core-ios/BankingCore/.build/arm64-apple-macosx/debug/Modules/CoreNetworking.swiftmodule",
+      "objects" : [
+        "/Users/dulatheo/Desktop/APPS/Banking/banking-core-ios/BankingCore/.build/arm64-apple-macosx/debug/CoreNetworking.build/APIClient.swift.o",
+        "/Users/dulatheo/Desktop/APPS/Banking/banking-core-ios/BankingCore/.build/arm64-apple-macosx/debug/CoreNetworking.build/APIEndpoint.swift.o",
+        "/Users/dulatheo/Desktop/APPS/Banking/banking-core-ios/BankingCore/.build/arm64-apple-macosx/debug/CoreNetworking.build/HTTPMethod.swift.o",
+        "/Users/dulatheo/Desktop/APPS/Banking/banking-core-ios/BankingCore/.build/arm64-apple-macosx/debug/CoreNetworking.build/NetworkError.swift.o"
+      ],
+      "otherArguments" : [
+        "-target",
+        "arm64-apple-macosx10.13",
+        "-incremental",
+        "-enable-batch-mode",
+        "-serialize-diagnostics",
+        "-index-store-path",
+        "/Users/dulatheo/Desktop/APPS/Banking/banking-core-ios/BankingCore/.build/arm64-apple-macosx/debug/index/store",
+        "-Onone",
+        "-enable-testing",
+        "-j10",
+        "-DSWIFT_PACKAGE",
+        "-DDEBUG",
+        "-DSWIFT_MODULE_RESOURCE_BUNDLE_UNAVAILABLE",
+        "-module-cache-path",
+        "/Users/dulatheo/Desktop/APPS/Banking/banking-core-ios/BankingCore/.build/arm64-apple-macosx/debug/ModuleCache",
+        "-parseable-output",
+        "-parse-as-library",
+        "-emit-objc-header",
+        "-emit-objc-header-path",
+        "/Users/dulatheo/Desktop/APPS/Banking/banking-core-ios/BankingCore/.build/arm64-apple-macosx/debug/CoreNetworking.build/include/CoreNetworking-Swift.h",
+        "-color-diagnostics",
+        "-swift-version",
+        "6",
+        "-plugin-path",
+        "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/host/plugins/testing",
+        "-sdk",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX26.1.sdk",
+        "-F",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+        "-F",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/PrivateFrameworks",
+        "-I",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+        "-L",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+        "-g",
+        "-Xcc",
+        "-isysroot",
+        "-Xcc",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX26.1.sdk",
+        "-Xcc",
+        "-F",
+        "-Xcc",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+        "-Xcc",
+        "-F",
+        "-Xcc",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/PrivateFrameworks",
+        "-Xcc",
+        "-fPIC",
+        "-Xcc",
+        "-g",
+        "-package-name",
+        "bankingcore"
+      ],
+      "outputFileMapPath" : "/Users/dulatheo/Desktop/APPS/Banking/banking-core-ios/BankingCore/.build/arm64-apple-macosx/debug/CoreNetworking.build/output-file-map.json",
+      "outputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/dulatheo/Desktop/APPS/Banking/banking-core-ios/BankingCore/.build/arm64-apple-macosx/debug/CoreNetworking.build/APIClient.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/dulatheo/Desktop/APPS/Banking/banking-core-ios/BankingCore/.build/arm64-apple-macosx/debug/CoreNetworking.build/APIEndpoint.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/dulatheo/Desktop/APPS/Banking/banking-core-ios/BankingCore/.build/arm64-apple-macosx/debug/CoreNetworking.build/HTTPMethod.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/dulatheo/Desktop/APPS/Banking/banking-core-ios/BankingCore/.build/arm64-apple-macosx/debug/CoreNetworking.build/NetworkError.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/dulatheo/Desktop/APPS/Banking/banking-core-ios/BankingCore/.build/arm64-apple-macosx/debug/Modules/CoreNetworking.swiftmodule"
+        }
+      ],
+      "prepareForIndexing" : false,
+      "sources" : [
+        "/Users/dulatheo/Desktop/APPS/Banking/banking-core-ios/BankingCore/Modules/Networking/Sources/APIClient.swift",
+        "/Users/dulatheo/Desktop/APPS/Banking/banking-core-ios/BankingCore/Modules/Networking/Sources/APIEndpoint.swift",
+        "/Users/dulatheo/Desktop/APPS/Banking/banking-core-ios/BankingCore/Modules/Networking/Sources/HTTPMethod.swift",
+        "/Users/dulatheo/Desktop/APPS/Banking/banking-core-ios/BankingCore/Modules/Networking/Sources/NetworkError.swift"
+      ],
+      "tempsPath" : "/Users/dulatheo/Desktop/APPS/Banking/banking-core-ios/BankingCore/.build/arm64-apple-macosx/debug/CoreNetworking.build",
+      "wholeModuleOptimization" : false
+    }
+  },
+  "swiftFrontendCommands" : {
+
+  },
+  "swiftTargetScanArgs" : {
+    "CoreNetworking" : [
+      "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swiftc",
+      "-module-name",
+      "CoreNetworking",
+      "-package-name",
+      "bankingcore",
+      "-c",
+      "/Users/dulatheo/Desktop/APPS/Banking/banking-core-ios/BankingCore/Modules/Networking/Sources/APIClient.swift",
+      "/Users/dulatheo/Desktop/APPS/Banking/banking-core-ios/BankingCore/Modules/Networking/Sources/APIEndpoint.swift",
+      "/Users/dulatheo/Desktop/APPS/Banking/banking-core-ios/BankingCore/Modules/Networking/Sources/HTTPMethod.swift",
+      "/Users/dulatheo/Desktop/APPS/Banking/banking-core-ios/BankingCore/Modules/Networking/Sources/NetworkError.swift",
+      "-I",
+      "/Users/dulatheo/Desktop/APPS/Banking/banking-core-ios/BankingCore/.build/arm64-apple-macosx/debug/Modules",
+      "-target",
+      "arm64-apple-macosx10.13",
+      "-incremental",
+      "-enable-batch-mode",
+      "-serialize-diagnostics",
+      "-index-store-path",
+      "/Users/dulatheo/Desktop/APPS/Banking/banking-core-ios/BankingCore/.build/arm64-apple-macosx/debug/index/store",
+      "-Onone",
+      "-enable-testing",
+      "-j10",
+      "-DSWIFT_PACKAGE",
+      "-DDEBUG",
+      "-DSWIFT_MODULE_RESOURCE_BUNDLE_UNAVAILABLE",
+      "-module-cache-path",
+      "/Users/dulatheo/Desktop/APPS/Banking/banking-core-ios/BankingCore/.build/arm64-apple-macosx/debug/ModuleCache",
+      "-parseable-output",
+      "-parse-as-library",
+      "-emit-objc-header",
+      "-emit-objc-header-path",
+      "/Users/dulatheo/Desktop/APPS/Banking/banking-core-ios/BankingCore/.build/arm64-apple-macosx/debug/CoreNetworking.build/include/CoreNetworking-Swift.h",
+      "-color-diagnostics",
+      "-swift-version",
+      "6",
+      "-plugin-path",
+      "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/host/plugins/testing",
+      "-sdk",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX26.1.sdk",
+      "-F",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+      "-F",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/PrivateFrameworks",
+      "-I",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+      "-L",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+      "-g",
+      "-Xcc",
+      "-isysroot",
+      "-Xcc",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX26.1.sdk",
+      "-Xcc",
+      "-F",
+      "-Xcc",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+      "-Xcc",
+      "-F",
+      "-Xcc",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/PrivateFrameworks",
+      "-Xcc",
+      "-fPIC",
+      "-Xcc",
+      "-g",
+      "-package-name",
+      "bankingcore",
+      "-driver-use-frontend-path",
+      "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swiftc"
+    ]
+  },
+  "targetDependencyMap" : {
+    "CoreNetworking" : [
+
+    ]
+  },
+  "testDiscoveryCommands" : {
+
+  },
+  "testEntryPointCommands" : {
+
+  },
+  "traitConfiguration" : {
+    "default" : {
+
+    }
+  },
+  "writeCommands" : {
+    "/Users/dulatheo/Desktop/APPS/Banking/banking-core-ios/BankingCore/.build/arm64-apple-macosx/debug/CoreNetworking.build/sources" : {
+      "alwaysOutOfDate" : false,
+      "inputs" : [
+        {
+          "kind" : "virtual",
+          "name" : "<sources-file-list>"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/dulatheo/Desktop/APPS/Banking/banking-core-ios/BankingCore/Modules/Networking/Sources/APIClient.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/dulatheo/Desktop/APPS/Banking/banking-core-ios/BankingCore/Modules/Networking/Sources/APIEndpoint.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/dulatheo/Desktop/APPS/Banking/banking-core-ios/BankingCore/Modules/Networking/Sources/HTTPMethod.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/dulatheo/Desktop/APPS/Banking/banking-core-ios/BankingCore/Modules/Networking/Sources/NetworkError.swift"
+        }
+      ],
+      "outputFilePath" : "/Users/dulatheo/Desktop/APPS/Banking/banking-core-ios/BankingCore/.build/arm64-apple-macosx/debug/CoreNetworking.build/sources"
+    },
+    "/Users/dulatheo/Desktop/APPS/Banking/banking-core-ios/BankingCore/.build/arm64-apple-macosx/debug/swift-version--58304C5D6DBC2206.txt" : {
+      "alwaysOutOfDate" : true,
+      "inputs" : [
+        {
+          "kind" : "virtual",
+          "name" : "<swift-get-version>"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swiftc"
+        }
+      ],
+      "outputFilePath" : "/Users/dulatheo/Desktop/APPS/Banking/banking-core-ios/BankingCore/.build/arm64-apple-macosx/debug/swift-version--58304C5D6DBC2206.txt"
+    }
+  }
+}

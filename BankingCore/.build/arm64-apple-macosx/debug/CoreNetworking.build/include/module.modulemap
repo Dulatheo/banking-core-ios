@@ -1,0 +1,3 @@
+module CoreNetworking {
+    header "/Users/dulatheo/Desktop/APPS/Banking/banking-core-ios/BankingCore/.build/arm64-apple-macosx/debug/CoreNetworking.build/include/CoreNetworking-Swift.h"
+}

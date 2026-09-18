@@ -1,0 +1,33 @@
+{
+  "": {
+    "swift-dependencies": "/Users/dulatheo/Desktop/APPS/Banking/banking-core-ios/BankingCore/.build/arm64-apple-macosx/debug/CoreNetworking.build/master.swiftdeps"
+  },
+  "/Users/dulatheo/Desktop/APPS/Banking/banking-core-ios/BankingCore/Modules/Networking/Sources/APIClient.swift": {
+    "dependencies": "/Users/dulatheo/Desktop/APPS/Banking/banking-core-ios/BankingCore/.build/arm64-apple-macosx/debug/CoreNetworking.build/APIClient.d",
+    "object": "/Users/dulatheo/Desktop/APPS/Banking/banking-core-ios/BankingCore/.build/arm64-apple-macosx/debug/CoreNetworking.build/APIClient.swift.o",
+    "swiftmodule": "/Users/dulatheo/Desktop/APPS/Banking/banking-core-ios/BankingCore/.build/arm64-apple-macosx/debug/CoreNetworking.build/APIClient~partial.swiftmodule",
+    "swift-dependencies": "/Users/dulatheo/Desktop/APPS/Banking/banking-core-ios/BankingCore/.build/arm64-apple-macosx/debug/CoreNetworking.build/APIClient.swiftdeps",
+    "diagnostics": "/Users/dulatheo/Desktop/APPS/Banking/banking-core-ios/BankingCore/.build/arm64-apple-macosx/debug/CoreNetworking.build/APIClient.dia"
+  },
+  "/Users/dulatheo/Desktop/APPS/Banking/banking-core-ios/BankingCore/Modules/Networking/Sources/APIEndpoint.swift": {
+    "dependencies": "/Users/dulatheo/Desktop/APPS/Banking/banking-core-ios/BankingCore/.build/arm64-apple-macosx/debug/CoreNetworking.build/APIEndpoint.d",
+    "object": "/Users/dulatheo/Desktop/APPS/Banking/banking-core-ios/BankingCore/.build/arm64-apple-macosx/debug/CoreNetworking.build/APIEndpoint.swift.o",
+    "swiftmodule": "/Users/dulatheo/Desktop/APPS/Banking/banking-core-ios/BankingCore/.build/arm64-apple-macosx/debug/CoreNetworking.build/APIEndpoint~partial.swiftmodule",
+    "swift-dependencies": "/Users/dulatheo/Desktop/APPS/Banking/banking-core-ios/BankingCore/.build/arm64-apple-macosx/debug/CoreNetworking.build/APIEndpoint.swiftdeps",
+    "diagnostics": "/Users/dulatheo/Desktop/APPS/Banking/banking-core-ios/BankingCore/.build/arm64-apple-macosx/debug/CoreNetworking.build/APIEndpoint.dia"
+  },
+  "/Users/dulatheo/Desktop/APPS/Banking/banking-core-ios/BankingCore/Modules/Networking/Sources/HTTPMethod.swift": {
+    "dependencies": "/Users/dulatheo/Desktop/APPS/Banking/banking-core-ios/BankingCore/.build/arm64-apple-macosx/debug/CoreNetworking.build/HTTPMethod.d",
+    "object": "/Users/dulatheo/Desktop/APPS/Banking/banking-core-ios/BankingCore/.build/arm64-apple-macosx/debug/CoreNetworking.build/HTTPMethod.swift.o",
+    "swiftmodule": "/Users/dulatheo/Desktop/APPS/Banking/banking-core-ios/BankingCore/.build/arm64-apple-macosx/debug/CoreNetworking.build/HTTPMethod~partial.swiftmodule",
+    "swift-dependencies": "/Users/dulatheo/Desktop/APPS/Banking/banking-core-ios/BankingCore/.build/arm64-apple-macosx/debug/CoreNetworking.build/HTTPMethod.swiftdeps",
+    "diagnostics": "/Users/dulatheo/Desktop/APPS/Banking/banking-core-ios/BankingCore/.build/arm64-apple-macosx/debug/CoreNetworking.build/HTTPMethod.dia"
+  },
+  "/Users/dulatheo/Desktop/APPS/Banking/banking-core-ios/BankingCore/Modules/Networking/Sources/NetworkError.swift": {
+    "dependencies": "/Users/dulatheo/Desktop/APPS/Banking/banking-core-ios/BankingCore/.build/arm64-apple-macosx/debug/CoreNetworking.build/NetworkError.d",
+    "object": "/Users/dulatheo/Desktop/APPS/Banking/banking-core-ios/BankingCore/.build/arm64-apple-macosx/debug/CoreNetworking.build/NetworkError.swift.o",
+    "swiftmodule": "/Users/dulatheo/Desktop/APPS/Banking/banking-core-ios/BankingCore/.build/arm64-apple-macosx/debug/CoreNetworking.build/NetworkError~partial.swiftmodule",
+    "swift-dependencies": "/Users/dulatheo/Desktop/APPS/Banking/banking-core-ios/BankingCore/.build/arm64-apple-macosx/debug/CoreNetworking.build/NetworkError.swiftdeps",
+    "diagnostics": "/Users/dulatheo/Desktop/APPS/Banking/banking-core-ios/BankingCore/.build/arm64-apple-macosx/debug/CoreNetworking.build/NetworkError.dia"
+  }
+}
